@@ -11,6 +11,7 @@
 ## Phase 2 — Prototype noyau Rust
 
 - Appliquer les décisions V1 documentées dans `ai_docs/decisions/`.
+=======
 - Créer une CLI minimale.
 - Définir les traits Rust pour les plugins.
 - Définir un format de capacité typé.

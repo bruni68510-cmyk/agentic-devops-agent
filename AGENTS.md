@@ -29,6 +29,7 @@ Les décisions et idées doivent être maintenues dans `ai_docs/` :
 - `ai_docs/roadmap.md` : étapes de réalisation.
 - `ai_docs/decisions/` : décisions d'architecture acceptées ou à réviser.
 
+
 ## Contraintes importantes pour les futurs agents
 
 1. Ne pas introduire d'exécution de commandes arbitraires comme interface plugin.
