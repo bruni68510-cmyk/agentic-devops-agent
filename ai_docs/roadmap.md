@@ -6,9 +6,12 @@
 - Structurer les documents dans `ai_docs/`.
 - Identifier les premiers skills et leurs limites.
 - Définir les principes de sécurité non négociables.
+- Formaliser les décisions V1 dans `ai_docs/decisions/`.
 
 ## Phase 2 — Prototype noyau Rust
 
+- Appliquer les décisions V1 documentées dans `ai_docs/decisions/`.
+=======
 - Créer une CLI minimale.
 - Définir les traits Rust pour les plugins.
 - Définir un format de capacité typé.

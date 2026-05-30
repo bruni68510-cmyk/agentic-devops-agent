@@ -27,6 +27,8 @@ Les décisions et idées doivent être maintenues dans `ai_docs/` :
 - `ai_docs/plugins.md` : modèle de plugins et contrats de capacités.
 - `ai_docs/service_skill.md` : premier skill cible autour des services Linux.
 - `ai_docs/roadmap.md` : étapes de réalisation.
+- `ai_docs/decisions/` : décisions d'architecture acceptées ou à réviser.
+
 
 ## Contraintes importantes pour les futurs agents
 
