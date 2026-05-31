@@ -1,0 +1,12 @@
+[package]
+name = "agentic-devops-agent"
+version = "0.1.0"
+edition = "2024"
+description = "Agent DevOps local en Rust avec plugins contrôlés et enforcement déclaratif"
+license = "MIT"
+
+[[bin]]
+name = "agentic-devops"
+path = "src/main.rs"
+
+[dependencies]
